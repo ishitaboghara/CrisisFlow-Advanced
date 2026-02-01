@@ -14,31 +14,62 @@ To design an efficient disaster management system using advanced data structures
 
 ## ✨ Key Features
 
-- Emergency route optimization  
-- Graph-based pathfinding  
-- Resource allocation logic  
-- Disaster scenario simulation  
-- Modular system design  
+- Emergency route optimization
+- Graph-based pathfinding
+- Resource allocation logic
+- Disaster scenario simulation
+- Modular system design
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard_overview.png)
+
+### Priority Queue & Analytics
+
+![Priority Queue](screenshots/priority_queue_analytics.png)
+
+### Report Emergency Flow
+
+![Report Emergency Form](screenshots/report_emergency_form.png)
+![Submit Emergency](screenshots/report_emergency_submit.png)
+
+### Emergency History (Linked List + BST)
+
+![History](screenshots/history_ll_bst.png)
+
+### Analytics & Predictive Insights
+
+![Analytics](screenshots/analytics_hotspots_heatmap.png)
+![Predictive](screenshots/predictive_analytics.png)
+
+### Routes, Resources & Shortest Path (Dijkstra)
+
+![Routes](screenshots/routes_resources_management.png)
+![Dijkstra](screenshots/dijkstra_shortest_path.png)
+
 ## 🛠 Technologies / Concepts Used
 
-- Java  
-- Advanced Data Structures  
-- Graph Algorithms (Dijkstra / BFS / DFS)  
-- Console / Android Application  
-- GitHub  
+- Java
+- Advanced Data Structures
+- Graph Algorithms (Dijkstra / BFS / DFS)
+- Console / Android Application
+- GitHub
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Data Structures & Algorithms  
-- Graph Traversal  
-- Problem Solving  
-- Java Programming  
-- Software Design  
+- Data Structures & Algorithms
+- Graph Traversal
+- Problem Solving
+- Java Programming
+- Software Design
 
 ---
 
